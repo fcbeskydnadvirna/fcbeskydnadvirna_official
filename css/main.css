@@ -1426,6 +1426,7 @@ button:hover, button:focus {
 .benefits__icon {
   width: 70px;
   height: 70px;
+  color: #000;
 }
 
 .benefits-icon__container {
